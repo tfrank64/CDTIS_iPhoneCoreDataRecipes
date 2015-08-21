@@ -44,7 +44,7 @@ typedef enum {
 	if (_remoteURL == nil) {
 
 		NSString *hostname = @"yourcloudantid.cloudant.com";
-		NSString *dbname = @"userrecipes";
+		NSString *dbname = @"recipes";
 		NSString *key = @"APIKEY";
 		NSString *password = @"APIPASSWORD";
 
